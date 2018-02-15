@@ -30,6 +30,6 @@ The script expects the following to be avaliable on the HPC:
 4. Generate slurm scripts in order using the numbered options. In order for the script to find file names, the prior script must be run prior to generating the next (configuration options will be saved each time you exit the script). 
 
 # Example primer file
-rbcL,ATGTCACCACAAACAGAGACTAAAGC
+rbcL,ATGTCACCACAAACAGAGACTAAAGC\n
 ITS2,ATGCGATACTTGGTGTGAAT
 
