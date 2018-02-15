@@ -31,6 +31,5 @@ The script expects the following to be avaliable on the HPC:
 
 # Example primer file
 rbcL,ATGTCACCACAAACAGAGACTAAAGC
-
 ITS2,ATGCGATACTTGGTGTGAAT
 
