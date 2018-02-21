@@ -1,6 +1,6 @@
 ## Description
 
-Modified version of the plant metabarcoding pipeline found at https://github.com/colford/nbgw-plant-illumina-pipeline. This pipeline allows for two marker genes to be sequenced together and seperated using primer sequences.
+Modified version of the plant metabarcoding pipeline found at https://github.com/colford/nbgw-plant-illumina-pipeline, which was written by Colin Ford. This pipeline allows for two marker genes to be sequenced together and seperated using primer sequences.
 
 Primers splitting is based on a script taken from https://github.com/Y-Lammers/Split_on_Primer.
 
